@@ -63,4 +63,5 @@ Performed VAPT for web applications, assisted in report writing, and worked clos
 🌐 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/shivshant-patil-b58aaa281)
+- [GitHub](https://github.com/Shivshantp)
 - [TryHackMe](https://tryhackme.com/p/shivshantp)
