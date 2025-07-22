@@ -1,67 +1,71 @@
-👨‍💻 Shivshant Patil
+# 👨‍💻 Shivshant Patil
 
-B.Tech Computer Engineering Graduate | Certified Ethical Hacker (CEH v13 - 124/125) | Passionate about VAPT & Network Security | Ex-Intern @ Swiftsafe
+**B.Tech Computer Engineering Graduate | Certified Ethical Hacker (CEH v13 – 124/125) | Passionate about VAPT & Network Security | Ex-Intern @ Swiftsafe**
 
-🎯 About Me
+---
 
-I’m a recent graduate in Computer Engineering with a strong focus on cybersecurity. My interests lie in penetration testing, vulnerability assessment, network security, and exploring real-world attack simulations. I enjoy breaking things (ethically) to understand how to secure them better.
+### 🎯 About Me
 
-📜 Certifications & Training
+I'm a Computer Engineering graduate with a strong interest in **cybersecurity**, specializing in **Vulnerability Assessment and Penetration Testing (VAPT)**, **network defense**, and **ethical hacking**.  
+I enjoy understanding attack vectors, breaking systems (ethically), and applying practical solutions to secure them.
 
-- ✅ Certified Ethical Hacker (CEH v13 – EC-Council)
-- 🧠 3.0 University – CEH Training & Labs
-- 🛡️ Cybersecurity Analyst Intern – Swiftsafe
-- 🧑‍💻 Udemy: The Complete Python Bootcamp From Zero to Hero in Python
+---
 
-🛠️ Technical Skills
+### 📜 Certifications & Training
 
-Cybersecurity & VAPT: Ethical Hacking, Penetration Testing, Network Security  
-Operating Systems: Windows, Linux, Parrot Security OS  
-Tools: Wireshark, Nmap, Burp Suite, Metasploit, Hydra, John the Ripper, SQLmap  
-Programming: Python, Java  
-Version Control: Git, GitHub
+- ✅ **Certified Ethical Hacker (CEH v13 – EC-Council)**  
+- 🧠 **3.0 University** – CEH Training & Labs  
+- 🛡️ **Cybersecurity Analyst Intern** – Swiftsafe  
+- 💻 **Udemy** – Complete Python Bootcamp: Zero to Hero  
 
+---
 
-👨‍💼 Projects & Experience
+### 🛠️ Technical Skills
 
-🔐 Advanced Cybersecurity Toolkit (Final Year Project)
-Developed tools for anonymity, attack simulation, and forensics — implemented modules like payload generation, phishing toolkits, SQLi scanner, and XSS tester.
+- **Cybersecurity & VAPT**: Ethical Hacking, Penetration Testing, Network Security  
+- **Operating Systems**: Windows, Linux, Parrot Security OS  
+- **Tools**: Wireshark, Nmap, Burp Suite, Metasploit, Hydra, John the Ripper, SQLmap  
+- **Programming**: Python, Java  
+- **Version Control**: Git, GitHub  
 
-🧰 Python-based Keylogger  
-Wrote a lightweight keylogger using Python for educational purposes — focused on demonstrating user input capture and reporting with secure handling.
+---
 
-💻 Cybersecurity Analyst Intern @ Swiftsafe  
-Performed VAPT for web applications, assisted in report writing, and worked closely with red team practices.
+### 👨‍💼 Projects & Experience
 
-🏅 Achievements
+#### 🔐 Advanced Cybersecurity Toolkit (Final Year Project)  
+Developed a complete toolkit to simulate attacks and test defenses. Modules include phishing tools, payload generation, SQLi/XSS testers, and digital forensics support.
 
-- Scored 124/125 in CEH Theory
-- Led technical event teams during college festivals
-- Captain of college cricket team, member of university team (team leadership + strategy)
+#### 🧰 Python-based Keylogger  
+Created a basic keylogger in Python for educational purposes, focusing on secure input capture and system-level monitoring.
 
+#### 💻 Cybersecurity Analyst Intern @ Swiftsafe  
+Conducted VAPT for live web apps, assisted with red team engagements, and documented reports on vulnerabilities and fixes.
 
+---
 
-👨‍💻 Tech Stack
---  
+### 🏅 Achievements
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/>
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+- 🏆 Scored **124/125 in CEH Theory Exam**  
+- 🎯 Led tech teams during college-level cybersecurity events  
+- 🏏 Captain – College Cricket Team | Member – University Cricket Team  
 
+---
 
-🌐 Connect with Me
+### 👨‍💻 Tech Stack
 
-- [LinkedIn](https://linkedin.com/in/shivshant-patil-b58aaa281)
-- [GitHub](https://github.com/Shivshantp)
-- [TryHackMe](https://tryhackme.com/p/shivshantp)
+`Python` `Java` `PowerShell` `Bash` `Git`  
+`Kali Linux` `Parrot OS` `TOR` `Windows Terminal`  
+`MySQL` `MongoDB` `GitHub`  
+`HTML5` `CSS3`
+
+---
+
+### 🌐 Connect with Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/shivshant-patil-b58aaa281)  
+- 🔗 [GitHub](https://github.com/Shivshantp)  
+- 🔗 [TryHackMe](https://tryhackme.com/p/Shivshantp)
+
+---
+
+### 🚀 Let’s collaborate on cybersecurity projects, real-world attack simulations, and open-source security tools!
