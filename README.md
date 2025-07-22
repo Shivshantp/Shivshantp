@@ -6,4 +6,4 @@
 🛠️ Tools: Nmap • Burp Suite • Metasploit • Wireshark • Hydra • John the Ripper  
 💡 Learning more every day in InfoSec!
 
-📫 Connect with me on [LinkedIn](linkedin.com/in/shivshant-patil-b58aaa281)
+📫 Connect with me on linkedin.com/in/shivshant-patil-b58aaa281
