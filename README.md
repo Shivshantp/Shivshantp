@@ -64,7 +64,7 @@ Conducted VAPT for live web apps, assisted with red team engagements, and docume
 
 - 🔗 [LinkedIn](https://linkedin.com/in/shivshant-patil-b58aaa281)  
 - 🔗 [GitHub](https://github.com/Shivshantp)  
-- 🔗 [TryHackMe](https://tryhackme.com/p/Shivshantp)
+- 🔗 [TryHackMe](https://tryhackme.com/p/shivshantp)
 
 ---
 
